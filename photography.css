@@ -1,0 +1,42 @@
+body{
+    background: #e9d8f7;}
+
+.body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.photolandscapeone{
+    width: 500px;
+    padding-top: 100px;
+    margin-left: 420px;
+}
+
+.photolanscapetwo{
+    width: 500px; 
+    padding-top: 100px;
+}
+
+.photolanscapethree{
+    width: 500px;
+    margin-left: 420px;
+    padding-top: 20px;
+}
+
+.photolanscapefour{
+    width: 500px; 
+    padding-top: 20px;
+}
+
+.photoportraitone{
+    width: 500px;
+    padding-top: 20px;
+    margin-left: 420px;
+}
+
+.photoportraittwo{
+    width: 500px;
+    padding-top: 20px;
+}
+
+/*Here I added the properties I needed for the photography page. I kept it separate from the other to avoid confusion and to facilitate the working process*/

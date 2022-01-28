@@ -1,0 +1,43 @@
+body{
+    background: #e9d8f7;}
+
+
+.body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.leftillustrationportrait{
+    height: 600px;
+    padding-top: 100px;
+    margin-left: 400px;
+}
+
+.rightportraitillustration{
+    height: 600px;
+    padding-top: 100px;
+}
+
+.firstlandscapeillustration{
+    width: 500px;
+    padding-top: 20px;
+    margin-left: 400px;
+}
+
+.secondlandscapeillustration{
+    width: 500px; 
+    padding-top: 20px; 
+}
+
+.thirdlandscapeillustration{
+    width: 500px;
+    margin-left: 400px;
+    padding-top: 20px; 
+}
+
+.fourthlandscapeillustration{
+    width: 500px; 
+    padding-top: 20px;
+}
+
+/*Here I added the properties I needed for the illustration page. I kept it separate from the other to avoid confusion and to facilitate the working process*/

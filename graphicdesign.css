@@ -1,0 +1,45 @@
+body{
+    background: #e9d8f7;
+}
+
+.body{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.topleft{
+    width: 500px; height: 500px;
+    padding-top: 100px;
+    margin-left: 80px;
+}
+
+.midtop{
+    width: 700px;
+    padding-top: 120px;
+}
+
+.topright{
+    width: 500px; height: 500px;
+    padding-top: 100px;
+    margin-left: 20px;
+}
+
+.botleft{
+    width: 500px; height: 500px;
+    padding-top: 20px;
+    margin-left: 80px;
+}
+
+.midbot{
+    width: 700px;
+    padding-top: 80px;
+}
+
+.botright{
+    width: 500px; height: 500px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+/*Here I added the properties I needed for the graphic design page. I kept it separate from the other to avoid confusion and to facilitate the working process*/

@@ -1,0 +1,68 @@
+body{
+    background: #e9d8f7;}
+
+form {
+    margin: 0 auto;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    width: 500px;
+    padding: 60px;
+    border: 8px solid;
+    border-color: #8850bf;
+    border-radius: 10px;
+    border-style: inset;
+    text-decoration: none;
+    color: #FFEFFB;
+    background: #5A378c;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  form li + li {
+    margin-top: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+  }
+  
+  input,
+  textarea {
+    
+    width: 300px;
+    box-sizing: border-box;
+  
+    
+    border: 1px solid #999;
+  }
+  
+  input:focus,
+  textarea:focus {
+  
+    border-color: #000;
+  }
+  
+  textarea {
+    
+    vertical-align: top;
+  
+    height: 60px;
+  }
+  
+
+  .email-here{
+      text-decoration: none;
+  }
+
+  .here{
+      text-decoration: none;
+      color: #D6acf2;
+  }
+
+  /*Here I added the properties I needed for the contact page. I kept it separate from the other to avoid confusion and to facilitate the working process*/

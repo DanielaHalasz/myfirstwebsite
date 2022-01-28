@@ -1,0 +1,33 @@
+body{
+    background: #e9d8f7;
+}
+
+.about-body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.portrait{
+    width: 500px;
+    float:right;
+    margin-top: 100px;
+    padding-right: 30px;
+    border-radius: 30px;
+}
+
+.text-box{
+    margin-left: 20px;
+    margin-top: 180px;
+    font-size: x-large;
+}
+
+.title{
+    color: #5A378C;
+    font-size: xx-large;
+}
+
+.intro{
+    color: #190F26
+}
+
+/*Here I added the properties I needed for the about page. I kept it separate from the other to avoid confusion and to facilitate the working process*/
